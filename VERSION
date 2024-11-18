@@ -1,0 +1,16 @@
+# Version 1.0.0
+
+Initial release of the Terraform AWS Glue Crawler module.
+Version: 1.0.0
+Author: Subhamay Bhattacharyya
+Created: 18-Nov-2024
+Updated: 
+Description: This module creates an Glue Crawler using Terraform.
+
+
+## Features
+- Initial release of the Terraform AWS Glue Crawler module.
+- Create a Glue Crawler.
+- Specify Glue Crawler target
+- Specify Recrawl Policy
+- Specify Schema Change policy
